@@ -1,0 +1,33 @@
+body{
+	background: #d9d9d9;
+}
+.navbar{
+	height: 50px;
+	background: #4484ce;
+}
+div{
+	position: relative;	
+}
+
+.btn{
+	margin: 10px auto;
+	display: block;
+	padding: 10px ;
+}
+
+.frame{
+
+	height: 640px;
+	width: 640px;
+	margin: 60px auto;
+	border: solid 1px black;
+}
+
+#element {
+	display: inline-block;
+	height: 154px;
+	width: 154px;
+	margin: 1px;
+	border: solid 1px black;
+	background: blue;
+}
